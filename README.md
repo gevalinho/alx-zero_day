@@ -1,2 +1,2 @@
 My first readme
-Just updated from github interface
+file will be updated
